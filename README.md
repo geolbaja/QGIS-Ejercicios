@@ -2,7 +2,7 @@
 En esta se encuentran los datos para los ejercicios utilizados en el libro de trabajo: Introducción al uso de QGIS.
 Los datos de los ejercicios son dibididos por capitulos (10).
 1) Introducción-Interfaz de QGIS
-2) Sistemas de Coordendas de Referencia
+2) Sistemas de Coordenadas de Referencia (SCR)
 3) Digitalización de mapas
 4) Topología
 5) Georreferencia e Importación de da datos
